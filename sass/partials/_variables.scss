@@ -1,0 +1,21 @@
+/**
+Note from the book:
+Naming variables is never easy. While I have given colors arbitrary names here
+(so that the values can be changed and the variable won't lose meaning), it
+would be equally sensible to name the variables more semantically (for example,
+$red for red and $light-blue for light blue). This would make them easier to
+remember but they would suffer the risk of making no sense if the value for red
+changed to a blue color for example. There's no one correct way to name the
+variables. Just use whatever works for you.
+*/
+$color1: #FF0000; // Red
+$color2: #FFBF00; // Orange
+$color3: #FFFF00; // Yellow
+$color4: #7FFF00; // Green
+$color5: #007FFF; // Light Blue
+$color6: #00FFFF; // Cyan
+$color7: #0000FF; // Blue
+$color8: #7F00FF; // Purple
+$color9: #FF00FF; // Magenta
+$color10: #000; // Black
+$color11: #fff; // White
